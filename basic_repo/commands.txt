@@ -1,0 +1,10 @@
+1)go to github and click on create new repository.
+2)go to your terminal and navigate to your desktop. mkdir basic_repo
+3)inside basic_repo, touch index.html touch style.css
+4)Edit files
+5)git add ., git commit -m "initial commit"
+6)git remote add origin git@github.com:jessie-smith7543/basic_repo.git
+7)git push -u origin master
+8)make more changes to html and css
+9)git add ., git commit -m "more edits"
+10)git push
